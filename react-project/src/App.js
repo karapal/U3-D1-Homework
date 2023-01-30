@@ -23,7 +23,7 @@ function App() {
         >
           Learn React
         </a>
-        <ButtonComponent>
+        <ButtonComponent label="Click Me">
 
         </ButtonComponent>
       </header>
